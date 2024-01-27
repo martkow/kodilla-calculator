@@ -1,3 +1,6 @@
+package module4.six;
+
+import module4.six.Calculator;
 
 public class Main {
     public static void main(String[] args) {
